@@ -1,3 +1,7 @@
+ol {
+	list-style-image: url('tinym.png')
+}
+
 h1 {
 	color: red;
 	text-align: center;
@@ -6,8 +10,4 @@ h1 {
 h2 {
 	color: blue;
 	text-shadow: 5px 5px 2px #808080
-}
-
-ol {
-	list-style-image: url('discussion2/tinym.png')
 }
